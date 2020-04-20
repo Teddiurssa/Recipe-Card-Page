@@ -2,4 +2,37 @@
 body {
 background-color: #DAF7F6;
 color: #3B3B3B;
+font-family: 'Open Sans' sans-serif;
+font-size: 12px;
+line-height: 16px;
 }
+
+/*------ header stlyes-------*/
+
+header {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    margin: 0;
+    padding: 25px 0;
+    font-family: 'Montserrat' sans-serif;
+    color: #F16059;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header img {
+    margin-right: 20px;
+}
+
+/*------ Main Content stlyes-------*/
+
+main {
+    height: 1000px;
+    margin: 0 60px;
+}
+
